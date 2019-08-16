@@ -1,0 +1,104 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+strong {
+  color: #000000
+  font-family: 'Russo One', sans-serif;
+}
+body {
+  background-color: #D1E6F8;
+}
+
+body {
+font-family: 'Maven Pro', sans-serif;
+}
+h1 {
+  font-family:'Merriweather', serif;
+  font-size: 85px;
+}
+body{
+  font-family: 'Maven Pro', sans-serif;
+}
+  header {
+  background-color: #7791F3;
+  }
+
+  .start {
+  font-size: 25px;
+  font-family: 'Maven Pro', sans-serif;
+  }
+  .blue {
+  font-size: 22px;
+  font-family: 'Maven Pro', sans-serif;
+  }
+
+  .helping,
+  .changetemp,
+  .greenhouse,
+  .greeneffect,
+   .artic{
+  font-size: 20px;
+  font-family: 'Maven Pro', sans-serif;
+  font color:
+  }
+  /* PAGE HEADER */
+header {
+  background: #7791F3;
+  color: #232F67;
+  padding: 5px 15px 15px 5px;
+  margin: -20px -15px -15px -15px;
+  text-align: center;
+}
+
+.sources {
+  background:
+}
+/*top, right, bottom, left, */
+header,
+section,
+footer {
+  padding: 25px 100px;
+}
+body {
+  margin: 0
+}
+footer {
+  font-size: 20px
+}
+.sources {
+text-align: center;
+background: #FFFFFF;
+padding: 5px 15px 15px 5px;
+margin: -20px -15px -15px -15px;
+}
+
+.flameglobe {
+  width: 101%;
+}
+
+.imagediv {
+  /* align: center; */
+}
+
+.floodhome {
+width: 34%;
+margin: 5%;
+}
+
+.dry {
+width: 40%;
+margin: 5%;
+}
+
+.backphoto{
+	background-image: url('project/images/LAST-ICE.jpg');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+  color:
+  z-index: -1;
+}
